@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658017072549",
+    "project_id": "super-chat-47c26",
+    "storage_bucket": "super-chat-47c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658017072549:android:7fe512c0e9f0ff6786244c",
+        "android_client_info": {
+          "package_name": "com.kpkcool.super_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658017072549-2sp8eksr0k6r2jejvc15suk9s6uhieds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQggVPNVNFoZ0ktRqscWbBBZD15vKqoFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658017072549-2sp8eksr0k6r2jejvc15suk9s6uhieds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
